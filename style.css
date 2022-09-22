@@ -1,1 +1,63 @@
-div {background-color}: red;
+header {
+height: 60px;
+width: 100%;
+line-height: 60px;
+background-color: darkblue;
+text-align: right;
+}
+
+li {
+display:inline
+padding : 0px 20 px;
+text-decoration:none
+
+}
+
+a {
+text-decoration:none;
+color:white;
+
+}
+
+/*utility class*/
+.text-center{
+text-align:center
+
+}
+
+.text-right {
+text-align: right;
+text-decoration:none;
+
+}
+id {
+    text-decoration:none
+}
+
+h1 {
+text-transform: unset;
+text-shadow: 15px;
+text-align: 0 auto margin;
+
+}
+
+footer{
+height: 100px;
+line-break: auto;
+line-height: 100px;
+    background-color:darkblue;
+    color: white;
+}
+text {
+
+    text-decoration: none;
+}
+
+body{
+    background-color: slategray;
+    text-decoration: none;
+}
+
+figure{
+    display: block
+}
